@@ -1,0 +1,54 @@
+# Virtual environments
+venv/
+env/
+.venv/
+langvenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Model weights (can be large)
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+
+# HuggingFace / Transformers cache
+.cache/
+huggingface/
+
+# Dataset files
+data/
+datasets/
+*.csv
+*.json
+*.parquet
+
+# Output folders
+outputs/
+results/
+generated/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+chroma_db/
+faiss_index/
