@@ -23,3 +23,6 @@ langserve
 sse_starlette
 langchain_core
 langchain_ollama
+sentence-transformers
+pandas
+tf-keras
