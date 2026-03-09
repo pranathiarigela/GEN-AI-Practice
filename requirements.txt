@@ -26,3 +26,8 @@ langchain_ollama
 sentence-transformers
 pandas
 tf-keras
+validators
+langchain_experimental
+youtube-transcript-api
+pytube
+unstructured
