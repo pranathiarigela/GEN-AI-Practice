@@ -31,3 +31,5 @@ langchain_experimental
 youtube-transcript-api
 pytube
 unstructured
+numexpr
+langchain_classic
